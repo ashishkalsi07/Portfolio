@@ -1,0 +1,24 @@
+.logo {
+    height: 30px;
+    /* Adjust the height of the logos */
+    margin-right: 5px;
+  }
+
+  .sticky-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+  }
+
+  /* Add padding to the top of the content area */
+  #about,
+  #competitive-coding,
+  #portfolio,
+  #contact {
+    padding-top: 60px;
+    /* Adjust as needed */
+  }
+  .footer {
+    text-align: center;
+  }
